@@ -1,0 +1,9 @@
+sale_id,customer_name,product,category,amount,city,quantity,discount,phone
+1,"Rahul Sharma",Laptop,Electronics,55000,Bangalore,1,5,9876543210
+2,"Priya Patel",Mouse,Electronics,800,Mumbai,2,10,9876543211
+4,"Neha Joshi","Office Chair",Furniture,7500,Delhi,1,15,9876543213
+5,"Rohan Mehta",Desk,Furniture,12000,Bangalore,1,10,9876543214
+8,"Harsh Verma","Pen Set",Stationery,300,Bangalore,3,0,9876543217
+9,"Anjali Singh",Headphones,Electronics,3500,Mumbai,1,12,NULL
+10,"Vikas Kumar","Table Lamp",Furniture,2200,Delhi,2,5,9876543219
+11,"Harsh sanchaniya",Laptop,Electronics,5500,Bangalore,1,5,9876543215

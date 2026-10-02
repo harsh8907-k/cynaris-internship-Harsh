@@ -1,0 +1,6 @@
+sale_id,customer_name,product,category,amount,city,quantity,discount,phone
+3,"Amit Shah",Keyboard,Electronics,1500,Ahmedabad,1,5,NULL
+4,"Neha Joshi","Office Chair",Furniture,7500,Delhi,1,15,9876543213
+9,"Anjali Singh",Headphones,Electronics,3500,Mumbai,1,12,NULL
+10,"Vikas Kumar","Table Lamp",Furniture,2200,Delhi,2,5,9876543219
+11,"Harsh sanchaniya",Laptop,Electronics,5500,Bangalore,1,5,9876543215

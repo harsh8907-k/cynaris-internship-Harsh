@@ -1,0 +1,4 @@
+sale_id,customer_name,product,category,amount,city,quantity,discount,phone
+1,"Rahul Sharma",Laptop,Electronics,55000,Bangalore,1,5,9876543210
+5,"Rohan Mehta",Desk,Furniture,12000,Bangalore,1,10,9876543214
+11,"Harsh sanchaniya",Laptop,Electronics,5500,Bangalore,1,5,9876543215

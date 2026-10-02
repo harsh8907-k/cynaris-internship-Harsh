@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+sale_id,int,NO,PRI,NULL,
+customer_name,text,NO,,NULL,
+product,text,NO,,NULL,
+category,text,YES,,NULL,
+amount,double,YES,,NULL,
+city,text,YES,,NULL,
+quantity,int,YES,,NULL,
+discount,double,YES,,NULL,
+phone,text,YES,,NULL,
