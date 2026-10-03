@@ -1,0 +1,12 @@
+sale_id,customer_name,product,amount,customer_city
+1,"Rahul Sharma",Laptop,55000,NULL
+2,"Priya Patel",Mouse,800,NULL
+3,"Amit Shah",Keyboard,1500,NULL
+4,"Neha Joshi","Office Chair",7500,NULL
+5,"Rohan Mehta",Desk,12000,NULL
+6,"Kiran Rao",Monitor,18000,NULL
+7,"Sneha Desai",Notebook,250,NULL
+8,"Harsh Verma","Pen Set",300,NULL
+9,"Anjali Singh",Headphones,3500,NULL
+10,"Vikas Kumar","Table Lamp",2200,NULL
+11,"Harsh sanchaniya",Laptop,5500,NULL
