@@ -1,0 +1,6 @@
+sale_id,customer_name,product,amount,customer_city
+NULL,NULL,NULL,NULL,Bangalore
+NULL,NULL,NULL,NULL,Mumbai
+NULL,NULL,NULL,NULL,Delhi
+NULL,NULL,NULL,NULL,Pune
+NULL,NULL,NULL,NULL,Ahmedabad
