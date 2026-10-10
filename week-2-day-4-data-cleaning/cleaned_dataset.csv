@@ -1,0 +1,7 @@
+name,age,salary,city,department
+Alice,25.0,30000.0,Bangalore,IT
+Bob,30.0,45000.0,Mumbai,HR
+Alice,51.0,35000.0,Bangalore,IT
+David,30.0,50000.0,Delhi,FINANCE
+Unknown,40.0,45000.0,Pune,HR
+Eva,28.0,65625.0,Bangalore,IT
